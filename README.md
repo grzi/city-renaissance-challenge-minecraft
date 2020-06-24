@@ -1,3 +1,5 @@
+![header](headerimage.png?raw=true "Header")
+
 Inspired by an old concept, the city construction challenge, I present you the city renaissance challenge (CRC). It can be done on bedrock or java edition of Minecraft.
 
 ## Why this challenge ?
