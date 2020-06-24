@@ -34,7 +34,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
   </ul>
 </details>
 <details>
-  <summary>Classic</summary>
+  <summary>Insane</summary>
   
   <ul>
     <li><strong>Difficulty of the game: </strong> Hard</li>
