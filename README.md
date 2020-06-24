@@ -13,7 +13,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
 
 ## Difficulty
 
-<details>
+<details style="cursor:pointer; margin:15px;">
   <summary>Noob</summary>
 
   <ul>
@@ -23,7 +23,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     <li><strong>Keep inventory :</strong> Yes</li>
   </ul>
 </details>
-<details>
+<details style="cursor:pointer; margin:15px;">
   <summary>Classic</summary>
   
   <ul>
@@ -33,7 +33,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     <li><strong>Keep inventory :</strong> No</li>
   </ul>
 </details>
-<details>
+<details style="cursor:pointer; margin:15px;">
   <summary>Insane</summary>
   
   <ul>
@@ -44,7 +44,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     <li><strong>Additional rule: </strong> If you die, you can’t reuse your stuff</li>
   </ul>
 </details>
-<details>
+<details style="cursor:pointer; margin:15px;">
   <summary>God</summary>
   
   <strong>Play on hardcore</strong>
@@ -52,7 +52,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
 
 ## Instructions
 
-<details>
+<details style="cursor:pointer; margin:15px;">
   <summary><strong>Chapter 0 : General rules</strong></summary>
   <br/>
   <ul>  
@@ -76,7 +76,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
   </ul>
 </details>
 
-<details>
+<details style="cursor:pointer; margin:15px;">
     <summary><strong>Chapter 1: The new world</strong></summary>
 
     <br />
@@ -122,7 +122,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     </ul>
 </details>
 
-<details>
+<details style="cursor:pointer; margin:15px;">
     <summary><strong>Chapter 2 : A first secure hamlet</strong></summary>
 
     <br />
@@ -166,7 +166,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     </ul>
 </details>
 
-<details>
+<details style="cursor:pointer; margin:15px;">
     <summary><strong>Chapter 3: The temple and the neighbors</strong></summary>
 
     <br />
@@ -209,7 +209,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     </ul>
 </details>
 
-<details>
+<details style="cursor:pointer; margin:15px;">
     <summary><strong>Chapter 4: The fisher and the beekeeper</strong></summary>
 
     <br />
@@ -253,7 +253,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     </ul>
 </details>
 
-<details>
+<details style="cursor:pointer; margin:15px;">
     <summary><strong>Chapter 5: Sam Jackson's ranch</strong></summary>
 
     <br />
@@ -297,7 +297,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     </ul>
 </details>
 
-<details>
+<details style="cursor:pointer; margin:15px;">
     <summary><strong>Chapter 6: Community</strong></summary>
 
     <br />
@@ -342,7 +342,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     </ul>
 </details>
 
-<details>
+<details style="cursor:pointer; margin:15px;">
     <summary><strong>Chapter 7: Primary defenses</strong></summary>
 
     <br />
@@ -383,7 +383,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     </ul>
 </details>
 
-<details>
+<details style="cursor:pointer; margin:15px;">
     <summary><strong>Chapter 8: The magician and the mad scientist</strong></summary>
 
     <br />
@@ -427,7 +427,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     </ul>
 </details>
 
-<details>
+<details style="cursor:pointer; margin:15px;">
     <summary><strong>Chapter 9: Welcome to hell</strong></summary>
 
     <br />
@@ -477,7 +477,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     </ul>
 </details>
 
-<details>
+<details style="cursor:pointer; margin:15px;">
     <summary><strong>Chapter 10: Exploration</strong></summary>
 
     <br />
@@ -524,7 +524,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     </ul>
 </details>
 
-<details>
+<details style="cursor:pointer; margin:15px;">
     <summary><strong>Chapter 11: Mass immigration</strong></summary>
 
     <br />
@@ -578,7 +578,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     </ul>
 </details>
 
-<details>
+<details style="cursor:pointer; margin:15px;">
     <summary><strong>Chapter 12: Rob Melark, The Alchemist</strong></summary>
 
     <br />
@@ -621,7 +621,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     </ul>
 </details>
 
-<details>
+<details style="cursor:pointer; margin:15px;">
     <summary><strong>Chapter 13: Art and culture</strong></summary>
 
     <br />
@@ -662,7 +662,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     </ul>
 </details>
 
-<details>
+<details style="cursor:pointer; margin:15px;">
     <summary><strong>Chapter 14: The outpost of the ancient slaves</strong></summary>
 
     <br />
@@ -705,7 +705,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     </ul>
 </details>
 
-<details>
+<details style="cursor:pointer; margin:15px;">
     <summary><strong>Chapter 15: The curse of the dragon</strong></summary>
 
     <br />
@@ -751,7 +751,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     </ul>
 </details>
 
-<details>
+<details style="cursor:pointer; margin:15px;">
     <summary><strong>Chapter 16: For honor, for freedom!</strong></summary>
 
     <br />
@@ -798,7 +798,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     </ul>
 </details>
 
-<details>
+<details style="cursor:pointer; margin:15px;">
     <summary><strong>Chapter 17: Wither, wither, wither...</strong></summary>
 
     <br />
@@ -836,7 +836,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     </ul>
 </details>
 
-<details>
+<details style="cursor:pointer; margin:15px;">
     <summary><strong>Chapter 18: Transport and defense walls</strong></summary>
 
     <br />
@@ -880,7 +880,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     </ul>
 </details>
 
-<details>
+<details style="cursor:pointer; margin:15px;">
     <summary><strong>Chapter 19: Hospitals</strong></summary>
 
     <br />
@@ -940,7 +940,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     </ul>
 </details>
 
-<details>
+<details style="cursor:pointer; margin:15px;">
     <summary><strong>Chapter 20: The port and the fishing village</strong></summary>
 
     <br />
@@ -983,7 +983,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     </ul>
 </details>
 
-<details>
+<details style="cursor:pointer; margin:15px;">
     <summary><strong>Chapter 21: Baby boom, Grandpa boom</strong></summary>
 
     <br />
@@ -1025,7 +1025,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     </ul>
 </details>
 
-<details>
+<details style="cursor:pointer; margin:15px;">
     <summary><strong>Chapter 22: Treasure hunting</strong></summary>
 
     <br />
@@ -1060,7 +1060,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     </ul>
 </details>
 
-<details>
+<details style="cursor:pointer; margin:15px;">
     <summary><strong>Chapter 23: Entertainment</strong></summary>
 
     <br />
@@ -1103,7 +1103,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     </ul>
 </details>
 
-<details>
+<details style="cursor:pointer; margin:15px;">
     <summary><strong>Chapter 24: Advanced military buildings</strong></summary>
 
     <br />
@@ -1148,7 +1148,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     </ul>
 </details>
 
-<details>
+<details style="cursor:pointer; margin:15px;">
     <summary><strong>Chapter 25: Island crossing</strong></summary>
 
     <br />
@@ -1198,7 +1198,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     </ul>
 </details>
 
-<details>
+<details style="cursor:pointer; margin:15px;">
     <summary><strong>Chapter 26: Sports</strong></summary>
 
     <br />
@@ -1240,7 +1240,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     </ul>
 </details>
 
-<details>
+<details style="cursor:pointer; margin:15px;">
     <summary><strong>Chapter 27: The Ultimate Mansion</strong></summary>
 
     <br />
@@ -1289,7 +1289,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     </ul>
 </details>
 
-<details>
+<details style="cursor:pointer; margin:15px;">
     <summary><strong>Chapter 28: Monuments</strong></summary>
 
     <br />
@@ -1324,7 +1324,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     </ul>
 </details>
 
-<details>
+<details style="cursor:pointer; margin:15px;">
     <summary><strong>Chapter 29: The Industrial district</strong></summary>
 
     <br />
@@ -1358,7 +1358,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     </ul>
 </details>
 
-<details>
+<details style="cursor:pointer; margin:15px;">
     <summary><strong>Chapter 30 : The ancient builders</strong></summary>
 
     <br />
