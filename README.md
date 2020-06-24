@@ -49,7 +49,6 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
 </details>
 
 ## Instructions
-</details>
 
 <details>
   <summary><strong>Chapter 0 : General rules</strong></summary>
@@ -113,11 +112,11 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
                 <li>64 blocks of dirt</li>
             </ul>
         </li>
-        <li>Quest: Fish until you get a saddle or kill a wandering trader to have 2 leads</li>
-        <li>You can use only wooden tools.</li>
-        <li>You can’t use furnaces / smokers / Blast furnaces</li>
-        <li>You can’t replant trees</li>
-        <li>You have to play with a render distance of 4 (To simulate your eyes strain after the cryopreservation).</li>
+        <li><strong>Quest:</strong> Fish until you get a saddle or kill a wandering trader to have 2 leads</li>
+        <li><strong>You can use only wooden tools.</strong> </li>
+        <li><strong>You can’t use furnaces / smokers / Blast furnaces</strong> </li>
+        <li><strong>You can’t replant trees</strong> </li>
+        <li><strong>You have to play with a render distance of 4 (To simulate your eyes strain after the cryopreservation).</strong> </li>
     </ul>
 </details>
 
@@ -128,10 +127,10 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     <blockquote>
         You are now well settled in your camp.Your first few nights were a bit difficult though, as it is not very secure. It is time to think about building a bigger and more comfortable house, making you feel safer. You go to the
         surrounding area to find a place that would suit, when you see in the distance, a group of several settlers. It looks like there are 4, but maybe there are more of them. They come on a cart with horses.
-        <br />
+        <br /><br />
         You ask them what happened after the battle 1000 years ago. Obviously, these people weren't there, but the story has spread from generation to generation since. The few survivors of this world are those who have managed to hide in
         caves, in reinforced constructions. No one really knows how many survived. According to rumors, the monsters are scattered all over the world.
-        <br />
+        <br /><br />
         After this discussion and after discovering that you are part of the ancient people, they decide to settle in this area with you, and you have the task of creating the first hamlet of the new city.
     </blockquote>
 
@@ -159,9 +158,9 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
             </ul>
         </li>
 
-        <li>Quest : Fish until you get a tripwire hook and use it as a decoration</li>
-        <li>You can use only stone tools. (You can cook iron, but can only craft shears and a bucket. NO SHIELD)</li>
-        <li>You can’t replant trees</li>
+        <li><strong>Quest:</strong> Fish until you get a tripwire hook and use it as a decoration</li>
+        <li><strong>You can use only stone tools. (You can cook iron, but can only craft shears and a bucket. NO SHIELD)</strong> </li>
+        <li><strong>You can’t replant trees</strong> </li>
     </ul>
 </details>
 
@@ -172,10 +171,10 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     <blockquote>
         After the installation, your new inhabitants let other people met on their way knowing that they had finally found a place to settle in, thanks to the return of a builder from the old days. This is how 4 new residents are about to
         arrive. You have a choice, enlarge the existing hamlet, or create their own hamlet. Whatever is your choice, you know they will need access to water and food.
-        <br />
+        <br /><br />
         When they arrive, you also question them about the situation of the current world from their point of view. According to them, no similar attack has taken place in 1000 years. However, sometimes camps are completely destroyed
         without anyone having an explanation. They also explain to you that an old-time prison was spared and that the survivors of this prison, after escaping, created different tribes which are scattered all over the world.
-        <br />
+        <br /><br />
         On the other hand, these new inhabitants would like sugar. They haven't had a chance to have it for 10 years, and you directly thought you could provide them some. Now that you and the new inhabitants have settled in, you realize
         that it becomes necessary to think about creating a temple, or a place of worship, in order to maintain the morale and the beliefs of the population. You also want to have a place to be able to see more far away.
     </blockquote>
@@ -202,9 +201,9 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
             </ul>
         </li>
 
-        <li>Quest : Fish a name tag (If you find it elsewhere it’s ok, but won’t fit the story).</li>
-        <li>You can use only stone tools. (You can cook iron, but can only craft shears and a bucket. NO SHIELD)</li>
-        <li>You can’t replant trees</li>
+        <li><strong>Quest:</strong> Fish a name tag (If you find it elsewhere it’s ok, but won’t fit the story).</li>
+        <li><strong>You can use only stone tools. (You can cook iron, but can only craft shears and a bucket. NO SHIELD)</strong></li>
+        <li><strong>You can’t replant trees</strong></li>
     </ul>
 </details>
 
@@ -215,10 +214,10 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     <blockquote>
         Your exploits as a fisherman have been heard, the fishing of this name tag has attracted two new inhabitants. One is a fisherman named Elliot Patterson. The other one is a beekeeper named Lola Beem. Both of them want to settle in
         your village. You decide to find a location that would suit Elliot, close to a river or a lake, and make some plan for a beekeeping house for Lola.
-        <br />
+        <br /><br />
         However, these new arrivals make you worried. If these nice people could have heard of your exploits, perhaps one of these malicious tribes of which the previous settlers have spoken to you, could come at any time ... It may be time
         to equip yourself accordingly.
-        <br />
+        <br /><br />
         The growing population also leads you to think that we will have to think bigger in terms of agricultural production and construction. You will also start to need technology, different raw materials. It's time to go mine ...
     </blockquote>
 
@@ -246,9 +245,9 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
                 <li>12 hay bales</li>
             </ul>
         </li>
-        <li>Quest : Find pumpkins or pumpkins seeds.</li>
-        <li>Iron tools only. If you find diamonds, you can mine them, but not use them.</li>
-        <li>You can’t replant trees</li>
+        <li><strong>Quest:</strong> Find pumpkins or pumpkins seeds.</li>
+        <li><strong>Iron tools only. If you find diamonds, you can mine them, but not use them.</strong></li>
+        <li><strong>You can’t replant trees</strong></li>
     </ul>
 </details>
 
@@ -257,12 +256,12 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
 
     <br />
     <blockquote>
-        After so much effort, you are a little richer! It really feels good! Going up from the mines, while you are sorting your stuff, you see in the distance a cart coming towards your village. This is Sam Jackson, an isolated farmer,
-        having heard of this emerging city, and the return of a builder from the old days. At first, he seems a little aggressive towards you. He asks you what made you come back after 1000 years, and you explain to him that it is not your
-        choice, that all you want is to build a new world. Sam seems to calm down, he explains to you that since the departure of the builders and their knowledge, the world has not really experienced expansion and a secure area against
-        monsters. You then tell him your version of the last battle, and what you learned and are ready to do today to protect everyone. You also explain to him that you would never have left, leaving other people behind, but that you had
-        been forced. He explains that he is part of a farming family, and that they would like to settle in your village, on a ranch. That way, they can offer various products to the community. He seems honest, you decide to help him build
-        this ranch.
+        After so much effort, you are a little richer! It really feels good! Going up from the mines, while you are sorting your stuff, you see in the distance a cart coming towards your village. This is Sam Jackson, an isolated farmer, having heard of this emerging city, and the return of a builder from the old days. At first, he seems a little aggressive towards you. He asks you what made you come back after 1000 years, and you explain to him that it is not your choice, that all you want is to build a new world. 
+        <br /><br />
+        Sam seems to calm down, he explains to you that since the departure of the builders and their knowledge, the world has not really experienced expansion and a secure area against monsters. You then tell him your version of the last battle, and what you learned and are ready to do today to protect everyone. You also explain to him that you would never have left, leaving other people behind, but that you had
+        been forced. He explains that he is part of a farming family, and that they would like to settle in your village, on a ranch. That way, they can offer various products to the community. 
+        <br /><br />
+        He seems honest, you decide to help him build this ranch.
     </blockquote>
 
     <h3>Objectives</h3>
@@ -290,9 +289,9 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
                 <li>32 hay bales / 32 cooked chickens / 32 feathers / 64 eggs</li>
             </ul>
         </li>
-        <li>Quest : Bring back 2 turtles to the village</li>
-        <li>Iron armor and tools only. If you find diamonds, you can mine them, but not use them.</li>
-        <li>You can’t replant trees</li>
+        <li><strong>Quest:</strong> Bring back 2 turtles to the village</li>
+        <li><strong>Iron armor and tools only. If you find diamonds, you can mine them, but not use them.</strong></li>
+        <li><strong>You can’t replant trees</strong></li>
     </ul>
 </details>
 
@@ -303,8 +302,12 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     <blockquote>
         Now that Sam Jackson and his family are settled, you look at the population of your village. You realize that it’s growing fast. Already more than 10 inhabitants have joined your adventure. Moreover (news spreads quickly), new
         settlers have sent you a message, asking you to create 2 new luxury homes for them. You realize that you have proclaimed yourself the village leader. There is no way for you to build a community of this kind, where leaders are
-        auto-proclaimed. This was the case when the old builders were leading the world, but it was not a good thing. In addition, the village needs to have a way to vote for the integration of new settlers, because the decision cannot be
-        left to you alone. It becomes necessary to create some buildings and services for your village. Also, looking at all the projects that are coming, you think it is time for you to upgrade your tools one more time !
+        auto-proclaimed. This was the case when the old builders were leading the world, but it was not a good thing. 
+        <br /><br />
+        In addition, the village needs to have a way to vote for the integration of new settlers, because the decision cannot be
+        left to you alone. It becomes necessary to create some buildings and services for your village. 
+        <br /><br />
+        Also, looking at all the projects that are coming, you think it is time for you to upgrade your tools one more time !
     </blockquote>
 
     <h3>Objectives</h3>
@@ -330,10 +333,10 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
                 <li>12 obsidians</li>
             </ul>
         </li>
-        <li>Quest: Kill a phantom and get a membrane</li>
-        <li>No diamond armor</li>
-        <li>No enchantments (except on fishing rods if you fish one with enchantments)</li>
-        <li>You can’t replant trees</li>
+        <li><strong>Quest:</strong> Kill a phantom and get a membrane</li>
+        <li><strong>No diamond armor</strong></li>
+        <li><strong>No enchantments (except on fishing rods if you fish one with enchantments)</strong></li>
+        <li><strong>You can’t replant trees</strong></li>
     </ul>
 </details>
 
@@ -342,9 +345,13 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
 
     <br />
     <blockquote>
-        The town hall and its polling station are now built. You have decided not to run for mayor. Sam Jackson is elected mayor of the city. However, he appoints you as head of the armies and architect of the city. The village has grown
+        The town hall and its polling station are now built. You have decided not to run for mayor. Sam Jackson is elected mayor of the city. However, he appoints you as head of the armies and architect of the city.  
+        <br /><br />
+        The village has grown
         up. So large that he certainly begins to get jealous among primitive tribes and other malicious tribes. The population and the mayor inform you of their concerns about their safety in case of potential enemy invasions. You need to
-        create some defenses. Luckily, a few new settlers arrive. It is a man and two womens rather robust. They would make good military recruits. However, the man tells you that he’s a woodcutter, not an army guy while the two girls seem
+        create some defenses. 
+        <br /><br />
+         Luckily, a few new settlers arrive. It is a man and two womens rather robust. They would make good military recruits. However, the man tells you that he’s a woodcutter, not an army guy while the two girls seem
         to agree to be in the army. After consulting the new mayor, you decide to take on this new challenge, without forgetting also to plan the construction of new houses for these new people.
     </blockquote>
 
@@ -368,9 +375,9 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
                 <li>24 obsidians</li>
             </ul>
         </li>
-        <li>Quest: Get a nautilus shell</li>
-        <li>No diamond armor</li>
-        <li>No enchantments (except on fishing rods if you fish one with enchantments)</li>
+        <li><strong>Quest:</strong> Get a nautilus shell</li>
+        <li><strong>No diamond armor</strong></li>
+        <li><strong>No enchantments (except on fishing rods if you fish one with enchantments)</strong></li>
     </ul>
 </details>
 
@@ -380,9 +387,15 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     <br />
     <blockquote>
         After a few days of tranquility in your village, while you are resting in your house, you hear a huge explosion in the distance. Then a second. Looking out the window, you see the residents panicking, not knowing what's going on.
-        You wear your best armor and decide to go see what is happening. When you get there, you come face to face with two strange people. A man and a woman. One claims to be the supreme mage named Liv Jones, the other claims to be a
-        scientist and his name is John Yumi. You’re still pissed off by the fear the noise has caused and ask them to explain it. It appears that the explosion was a side effect of a half-magic half-scientific technology intended to find
-        the village, in order to settle there. Obviously each blames the other for the explosions. But, they seem honest and you become to like them. After a general vote of the villagers, you decide to trust them and help them settle.
+        You wear your best armor and decide to go see what is happening. 
+        <br /><br />
+         When you get there, you come face to face with two strange people. A man and a woman. One claims to be the supreme mage named Liv Jones, the other claims to be a
+        scientist and his name is John Yumi. You’re still pissed off by the fear the noise has caused and ask them to explain it.  
+        <br /><br />
+        It appears that the explosion was a side effect of a half-magic half-scientific technology intended to find
+        the village, in order to settle there. Obviously each blames the other for the explosions. But, they seem honest and you become to like them.  
+        <br /><br />
+        After a general vote of the villagers, you decide to trust them and help them settle.
     </blockquote>
 
     <h3>Objectives</h3>
@@ -406,9 +419,9 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
                 <li>36 obsidians</li>
             </ul>
         </li>
-        <li>Quest: Find an donkey, tame and name him</li>
-        <li>No diamond armor</li>
-        <li>Enchantments level 1 maximum</li>
+        <li><strong>Quest:</strong> Find an donkey, tame and name him</li>
+        <li><strong>No diamond armor</strong></li>
+        <li><strong>Enchantments level 1 maximum</strong></li>
     </ul>
 </details>
 
@@ -418,10 +431,16 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     <br />
     <blockquote>
         Newcomers settle. After her move in, The magician and you have a discussion at the tavern. Like you did with other settlers, you ask her for her version of the story. She says that according to her family’s legends, some magicians
-        went to another dimension to escape the monsters in this world. They then came back to hide in caves on top of the mountains, where monsters come more rarely. She tells you that the reason her and the scientist are staying is
-        because they have heard you were different from the ancient builders. You seem to care about all the population and not just yourself. When you ask here about the dimension, she gives you a book about hell. According to this ancient
+        went to another dimension to escape the monsters in this world. They then came back to hide in caves on top of the mountains, where monsters come more rarely.  
+        <br /><br />
+        She tells you that the reason her and the scientist are staying is
+        because they have heard you were different from the ancient builders. You seem to care about all the population and not just yourself.  
+        <br /><br />
+        When you ask here about the dimension, she gives you a book about hell. According to this ancient
         legend, it would be possible to create a door to go there, and certain objects being there seem to have a rather important value, as much for you, as for your inhabitants. In addition, it seems that an interesting mineral is found
-        only in this dimension, it is called netherite. When you think of the many projects that await you, it seems interesting to find this new mineral, which will certainly help you improve your tools in the future. It only takes a few
+        only in this dimension, it is called netherite. When you think of the many projects that await you, it seems interesting to find this new mineral, which will certainly help you improve your tools in the future.  
+        <br /><br />
+        It only takes a few
         minutes to decide… This is the next step on your journey !
     </blockquote>
 
@@ -451,8 +470,8 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
             </ul>
         </li>
         <li>A full enchanted (level 2) diamond tools, sword, armor and bow, in your chest (In addition to those you have on yourself)</li>
-        <li>Quest: loot 3 or more wither skeleton heads</li>
-        <li>Enchantments level 2 maximum / Only diamond tools and armor</li>
+        <li><strong>Quest:</strong> loot 3 or more wither skeleton heads</li>
+        <li><strong>Enchantments level 2 maximum / Only diamond tools and armor</strong></li>
     </ul>
 </details>
 
@@ -461,9 +480,15 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
 
     <br />
     <blockquote>
-        You are back from hell, and after this morbid spectacle, you want to see the world of the living. You need air and landscapes. You warn the inhabitants of the village that you are going on a vacation for a while. Some of them, after
-        reading a few books on the resources of old times, put some requests back to you. You're looking through your chests, but you're unlikely to have all of their requests ... You may have to make some detours. So you decide to prepare
-        to go on a resource trip. It will be nice and refreshing for you. It would be better to write down your coordinates details so that you can easily locate yourself. A compass will also be useful. This trip will certainly make you
+        You are back from hell, and after this morbid spectacle, you want to see the world of the living. You need air and landscapes.  
+        <br /><br />
+        You warn the inhabitants of the village that you are going on a vacation for a while. Some of them, after
+        reading a few books on the resources of old times, put some requests back to you. You're looking through your chests, but you're unlikely to have all of their requests ... You may have to make some detours.  
+        <br /><br />
+        So you decide to prepare
+        to go on a resource trip. It will be nice and refreshing for you. It would be better to write down your coordinates details so that you can easily locate yourself. A compass will also be useful.  
+        <br /><br />
+        This trip will certainly make you
         meet some new friends …
     </blockquote>
 
@@ -492,8 +517,8 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
                 <li>A full enchanted (level 2) diamond tools, sword, armor and bow, in your chest (In addition to those you have on yourself)</li>
             </ul>
         </li>
-        <li>Quest: Loot 8 more nautilus shells by killing drowned on your trip</li>
-        <li>Enchantments level 3 / Only diamond tools and armor</li>
+        <li><strong>Quest:</strong> Loot 8 more nautilus shells by killing drowned on your trip</li>
+        <li><strong>Enchantments level 3 / Only diamond tools and armor</strong></li>
     </ul>
 </details>
 
@@ -503,8 +528,12 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     <br />
     <blockquote>
         You are back in your village, with your new treasures. You decide to make some sorting in your chests, when you see a group of settlers in the distance. These are the different people you met and invited on your trip. Each one of
-        them has to meet the city council before he is accepted. Seeing all these new residents, you feel full of motivation to welcome them as it should. They will need homes, and workplaces. And so much the better, because your population
-        has needs! As you see, you will certainly need to expand the town center, create some more houses and have some more work and farm builds. Somehow, in your happiness, there is a little bit of fear. You start to like all these
+        them has to meet the city council before he is accepted. 
+        <br /><br />
+        Seeing all these new residents, you feel full of motivation to welcome them as it should. They will need homes, and workplaces. And so much the better, because your population
+        has needs! As you see, you will certainly need to expand the town center, create some more houses and have some more work and farm builds.  
+        <br /><br />
+        Somehow, in your happiness, there is a little bit of fear. You start to like all these
         people. You had some good times with Sam, Liv, Jack, Elliot, Lola.. What if something wrong happens ?
     </blockquote>
 
@@ -542,8 +571,8 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
                 <li>A chest with a stack of each dye and at least one stack of wool of each color.</li>
             </ul>
         </li>
-        <li>Quest: Have an outdoor aquarium with a named squid in it</li>
-        <li>Only diamond tools and armor</li>
+        <li><strong>Quest:</strong> Have an outdoor aquarium with a named squid in it</li>
+        <li><strong>Only diamond tools and armor</strong></li>
     </ul>
 </details>
 
@@ -553,10 +582,18 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     <br />
     <blockquote>
         When you went to the nether, an energy escaped, leaving those who can detect it, a sure clue about your village location. This begins to worry you, especially since you later receive a messenger from distant lands. He gives you a
-        letter, written in strange signs, that you are unable to read. The recent arrival of the scientist is a gift because he is able to decipher it. It is a declaration of war. The Apasok tribe wants to take possession of your village.
+        letter, written in strange signs, that you are unable to read. The recent arrival of the scientist is a gift because he is able to decipher it.  
+        <br /><br />
+        <em>It is a declaration of war.</em> 
+        <br /><br />
+        The Apasok tribe wants to take possession of your village.
         You turn to the messenger, who is panicking. He explains that his name is Rob Melark, that he is a simple servant in this tribe, and that all that he wants is a peaceful life and that he only dreams of becoming an alchemist. He’s
-        not part of the tribe, he’s actually a slave there. He explains that the whole tribe is not bad, and that a servant revolt is more than possible. He offers to convince the servants to rebel, but submits the request to become an
-        alchemist for the city. You are perplexed, how to trust this messenger? But looking around, you realize that you have managed to see honesty among the locals, and that guy inspires trust in you. You decide to help him realize his
+        not part of the tribe, he’s actually a slave there.  
+        <br /><br />
+        He explains that the whole tribe is not bad, and that a servant revolt is more than possible. He offers to convince the servants to rebel, but submits the request to become an
+        alchemist for the city.  
+        <br /><br />
+        You are perplexed, how to trust this messenger? But looking around, you realize that you have managed to see honesty among the locals, and that guy inspires trust in you. You decide to help him realize his
         dream, and hope that it will make you valuable allies in the future.
     </blockquote>
 
@@ -577,8 +614,8 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
                 <li>A chest with a stack of each dye and at least one stack of wool of each color.</li>
             </ul>
         </li>
-        <li>Quest: Have 6 of each potions</li>
-        <li>Only diamond tools and armor</li>
+        <li><strong>Quest:</strong> Have 6 of each potions</li>
+        <li><strong>Only diamond tools and armor</strong></li>
     </ul>
 </details>
 
@@ -588,9 +625,15 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     <br />
     <blockquote>
         Your village is able to detect potential invaders through watchtowers. You also have enough to equip your inhabitants in case of an attack. You have potions and farms to fulfill the needs of everyone. Somehow, you forgot to create a
-        general store for basic needs. You’ll do it, for sure. As you celebrate this glorious list of accomplished tasks at the tavern with Liv, Lola and Elliot, one of them whispers to you that the community would like to have access to
-        art and culture. They never heard music! And unfortunately, currently do not have access to culture because no book is available. After having discussed it with the mayor and concerned about the well-being and the good education of
-        your peers, you decide to embark on a new series of constructions. Meanwhile, as promised, Rob is packing up some of his stuff in order to go back to his tribe. The strategy is to say to the Apasok tribe that there wasn't a village
+        general store for basic needs. You’ll do it, for sure. 
+        <br /><br />
+        As you celebrate this glorious list of accomplished tasks at the tavern with Liv, Lola and Elliot, one of them whispers to you that the community would like to have access to
+        art and culture. They never heard music! And unfortunately, currently do not have access to culture because no book is available.  
+        <br /><br />
+        After having discussed it with the mayor and concerned about the well-being and the good education of
+        your peers, you decide to embark on a new series of constructions.  
+        <br /><br />
+        Meanwhile, as promised, Rob is packing up some of his stuff in order to go back to his tribe. The strategy is to say to the Apasok tribe that there wasn't a village
         here. Then, he’ll convince slaves to rebel and join your village.
     </blockquote>
 
@@ -612,8 +655,8 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
                 <li>64 pumpkin pies / 12 stacks of carrots, potatoes, beetroots. 3 stack of hay bales.</li>
             </ul>
         </li>
-        <li>Quest: Collect all music disks except the nether one</li>
-        <li>Only diamond tools and armor</li>
+        <li><strong>Quest:</strong> Collect all music disks except the nether one</li>
+        <li><strong>Only diamond tools and armor</strong></li>
     </ul>
 </details>
 
@@ -623,9 +666,15 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     <br />
     <blockquote>
         After an absence of a week, you see, in the distance, your new friend Rob, followed by a dozen people, and a huge white creature. Rob informs you that they are the old servants of the enemy tribe who decided to join you. The
-        creature is called an iron golem. You’ve heard of it in the past, but it’s the first time you see one. You get to know this group of people. They tell you that they have been enslaved for centuries by the Apasok tribe, in a large
-        mansion. The Apasok tribe is one of the tribes created after the great battle 1000 years ago, from prison escapees. Their proposal is simple, they would like to settle in an extension of your village, a sort of fortified outpost.
-        They are ready for war if it comes. They need to train though. One of your soldiers is going to teach them how to fight. And you, on your side, are ready to build for them.
+        creature is called an iron golem. You’ve heard of it in the past, but it’s the first time you see one.  
+        <br /><br />
+        You get to know this group of people. They tell you that they have been enslaved for centuries by the Apasok tribe, in a large
+        mansion. The Apasok tribe is one of the tribes created after the great battle 1000 years ago, from prison escapees.  
+        <br /><br />
+        Their proposal is simple, they would like to settle in an extension of your village, a sort of fortified outpost.
+        They are ready for war if it comes. They need to train though. One of your soldiers is going to teach them how to fight.  
+        <br /><br />
+        And you, on your side, are ready to build for them.
     </blockquote>
 
     <h3>Objectives</h3>
@@ -649,8 +698,8 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
                 <li>20 ender pearls / 10 blaze rods / 5 ghast tears / 200 gunpowders</li>
             </ul>
         </li>
-        <li>Quest: At least one villager per profession has to be level max</li>
-        <li>Only diamond tools and armor</li>
+        <li><strong>Quest:</strong> At least one villager per profession has to be level max</li>
+        <li><strong>Only diamond tools and armor</strong></li>
     </ul>
 </details>
 
@@ -659,9 +708,13 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
 
     <br />
     <blockquote>
-        Now that you have a war outpost to stop the potential arrival of your enemies in your town, you think about preparing a little bit better for the war, and have something to enchant the weapons and armor of your troops. The only way
+        Now that you have a war outpost to stop the potential arrival of your enemies in your town, you think about preparing a little bit better for the war, and have something to enchant the weapons and armor of your troops.  
+        <br /><br />
+        The only way
         to enchant tools and armors is to have these mysterious experience points. Liv, the magician, tells you that the greatest source of experience is a mysterious dragon, living in a dimension called the End. To access it, you must find
-        an old stronghold using strange modified pearls. You are jokingly wondering how dimension Liv will make you visit, but you start looking for this stronghold, as soon as she leaves. When you arrive in the stronghold, you search this
+        an old stronghold using strange modified pearls. You are jokingly wondering how dimension Liv will make you visit, but you start looking for this stronghold, as soon as she leaves.  
+        <br /><br />
+        When you arrive in the stronghold, you search this
         old portal and finally find it. Some little creatures keep annoying you, but you manage to place the eyes on the portal, and activate it. Let the battle begin…
     </blockquote>
 
@@ -691,8 +744,8 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
                 <li>6 stacks of rockets</li>
             </ul>
         </li>
-        <li>Quest: Create a shulker box of each color, Name each shulker with a theme of your choice.</li>
-        <li>Diamond armor only</li>
+        <li><strong>Quest:</strong> Create a shulker box of each color, Name each shulker with a theme of your choice.</li>
+        <li><strong>Diamond armor only</strong></li>
     </ul>
 </details>
 
@@ -703,11 +756,19 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     <blockquote>
         While you’re celebrating your victory against the dragon at the tavern with your friends, you hear the sound of a horn in the distance, followed by an explosion. Everyone is panicking, your inhabitants are running everywhere. You
         calm them down, order them to go back to their houses, and you go to the origin of the noise. No doubt, the outpost is under attack. You put on your best armor, take your potions, your golden apples and go to the battle. No question
-        of leaving your friends alone, you worked too hard for that. When you get there the battle takes place mainly in front of the outpost. Liv and Lola are there to help. It’s a real bloodbath. You look at your allies, a rage in their
-        eyes makes you want to defend them even more. You’re able to feel the centuries of pain, of forced submission, which they are avenging. It's time to give this evil tribe what it deserves. After long days of fight, you are finally
-        victorious. But not happy. You lost some friends there. Lola is gone. The path, place of the battle, is slowly soaking up the blood of your friends and enemies. The spectacle is macabre. However, you know that this was only the
+        of leaving your friends alone, you worked too hard for that.  
+        <br /><br />
+        When you get there the battle takes place mainly in front of the outpost. Liv and Lola are there to help. It’s a real bloodbath. You look at your allies, a rage in their
+        eyes makes you want to defend them even more. You’re able to feel the centuries of pain, of forced submission, which they are avenging. It's time to give this evil tribe what it deserves.  
+        <br /><br />
+        After long days of fight, you are finally
+        victorious. But not happy. You lost some friends there. Lola is gone. The path, place of the battle, is slowly soaking up the blood of your friends and enemies. The spectacle is macabre.  
+        <br /><br />
+        However, you know that this was only the
         beginning, and you decide to end this war. You won’t let this happen again. You’re not like your ancestors. You won’t run away and let people die. You ask a cartographer to give you the coordinates of the manor of the Apasok tribe,
-        and go, in order to avenge your missing friends... Coming back to the village, a rainbow lights up the sky, perhaps a sign of renewal?
+        and go, in order to avenge your missing friends...  
+        <br /><br />
+        Coming back to the village, a rainbow lights up the sky, perhaps a sign of renewal?
     </blockquote>
 
     <h3>Objectives</h3>
@@ -731,7 +792,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
                 <li>Collect at least 5 totems of undying.</li>
             </ul>
         </li>
-        <li>Quest : Create a raid somewhere else to trap a Ravager and name him, then bring it back to your village somewhere safe.</li>
+        <li><strong>Quest:</strong> Create a raid somewhere else to trap a Ravager and name him, then bring it back to your village somewhere safe.</li>
     </ul>
 </details>
 
@@ -743,7 +804,9 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
         It's been a few weeks since the battle. Since then, your village has remained silent. You feel guilty because it was your role to protect your people. Even though everyone continues to thank you and show you everything you've
         already done for them, you still persist in the thought that you could have done more. You’re talking about it around a beetroot soup at the tavern, with Rob Melark, Liv Jones and Sam Jackson. You ask, if they don't have another
         dimension to show you around with a magic item to recover to protect your population. They collaborate, and remember another legend, the Withers. Not a complete army like 1000 years ago, but one at a time. According to ancient
-        writings, withers are evil and very powerful creatures that contain a star that can be used to create a protection zone. Interesting… In the meantime, a group of locals have come together to submit a few requests to you, probably
+        writings, withers are evil and very powerful creatures that contain a star that can be used to create a protection zone. Interesting…  
+        <br /><br />
+        In the meantime, a group of locals have come together to submit a few requests to you, probably
         with the aim of changing your mind and showing you that they are there for you. They would like a little more decoration, and a restaurant in addition to the tavern, in the village.
     </blockquote>
 
@@ -767,7 +830,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
                 <li>A full netherite armor / tools and sword (In addition to those you have on yourself)</li>
             </ul>
         </li>
-        <li>Quest: Trap a phantom and name it. Put it in a safe little building for now.</li>
+        <li><strong>Quest:</strong> Trap a phantom and name it. Put it in a safe little building for now.</li>
     </ul>
 </details>
 
@@ -776,9 +839,13 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
 
     <br />
     <blockquote>
-        This beacon makes you feel better and makes you want to continue to organize the village. You look at the maps. It would be useful to add a few walls to surround and delimit certain areas. Mainly homes and the city center. On the
+        This beacon makes you feel better and makes you want to continue to organize the village. You look at the maps. It would be useful to add a few walls to surround and delimit certain areas. Mainly homes and the city center.  
+        <br /><br />
+        On the
         other hand, you realize that you still have no transportation system for your people. The mayor tells you it’s a good idea and gives you a list of places he would like to see connected to the city center (via a cart system for
-        exemple). You think back to all these landscapes that you have visited in the past. Perhaps it would be interesting to create a portal to these different areas, just to be able to return? It will also be an opportunity to find an
+        exemple).  
+        <br /><br />
+        You think back to all these landscapes that you have visited in the past. Perhaps it would be interesting to create a portal to these different areas, just to be able to return? It will also be an opportunity to find an
         old bastion in the nether. According to the story that Liv Jones told you, a special enchantment can be found there, or obtained through a special trade, and a unique music disk can also be found.
     </blockquote>
 
@@ -807,7 +874,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
                 <li>A full netherite armor / tools and sword (In addition to those you have on yourself)</li>
             </ul>
         </li>
-        <li>Quest: Build an elytra launching system somewhere in the city center.</li>
+        <li><strong>Quest:</strong> Build an elytra launching system somewhere in the city center.</li>
     </ul>
 </details>
 
@@ -817,13 +884,23 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     <br />
     <blockquote>
         Now that your city is safe, another concern seems to be at the heart of the discussions. Some residents begin to be ill or injure themselves while working, and only basic medicine is provided. The mayor asks you to think about the
-        creation of a general hospital. You start to plan it. Suddenly, you see a light coming from your makeshift camp. A bright light, and as quickly as it came, it disappears. You go there to understand what just happened, and discover a
-        sleeping man. He carries a message :
+        creation of a general hospital.  
+        <br /><br />
+        You start to plan it. 
+        <br /><br />
+         Suddenly, you see a light coming from your makeshift camp. A bright light, and as quickly as it came, it disappears. You go there to understand what just happened, and discover a
+        sleeping man. He carries a message : 
+        <br /><br />
+        
 
-        <em>"We have started the process of de-cryogenisation, the ancient will wake up and join you".</em>
+        <em>"We have started the process of de-cryogenisation, the ancient will wake up and join you".</em> 
+        <br /><br />
+        
 
         After a long night, your new guest wakes up. He seems to be completely confused, and his words are inconsistent. He starts screaming, crying and seems panicked. A potion made by Rob Melark is then administered to him and he falls
-        asleep again, leaving you perplexed. It seems that some elders are going to need an asylum so that they can rest, regain their sanity. Especially since some of the city's current residents are still in shock from the attack. You
+        asleep again, leaving you perplexed.  
+        <br /><br />
+        It seems that some elders are going to need an asylum so that they can rest, regain their sanity. Especially since some of the city's current residents are still in shock from the attack. You
         decide to add to your list of plans this asylum, which will be located not far from the hospital, to provide healthcare if necessary.
     </blockquote>
 
@@ -857,7 +934,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
                 <li>36 diamond blocks / 380 iron blocks / 22 coal blocks / 150 emeralds blocks / 100 gold blocks</li>
             </ul>
         </li>
-        <li>Quest : Bring a Hoglin from the nether and name him</li>
+        <li><strong>Quest:</strong> Bring a Hoglin from the nether and name him</li>
     </ul>
 </details>
 
@@ -868,10 +945,18 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     <blockquote>
         Since the construction of the hospital and the asylum, 3 new elders have arrived in the village. One of them left the asylum almost unharmed after a week. This is Ronnie Brown, he’s not a builder but a former fisherman. He tells you
         a bit more about the initial plan of the ancient builders. Their plan was to send the sacrifices back to the planet first, so as to see if life was possible. It’s for this reason that for now, there is a good chance that the
-        returning ancient are in reality only former non-builder inhabitants of the planet, considered as sacrifices. This is starting to make you doubt about your place in the builders strategy, were you a sacrifice too? It must be said
-        that you were only an apprentice at the time. You need to take care of Ronnie before thinking about this. He quickly became friends with Elliot Patterson. Together, they plan great things, and would like to industrialize their
-        favorite activity: fishing. They show you their project, a port, associated with a fishing village and a lighthouse. This port should make it possible to launch a global fishing activity and guarantee a supply of various maritime
-        products for the whole city. The idea suits you, especially since it will also provide an opportunity for additional work for the children of tomorrow and a place of tourism for future visitors.
+        returning ancient are in reality only former non-builder inhabitants of the planet, considered as sacrifices.  
+        <br /><br />
+        This is starting to make you doubt about your place in the builders strategy, were you a sacrifice too? It must be said
+        that you were only an apprentice at the time. You need to take care of Ronnie before thinking about this.  
+        <br /><br />
+        He quickly became friends with Elliot Patterson. Together, they plan great things, and would like to industrialize their
+        favorite activity: fishing.  
+        <br /><br />
+        They show you their project, a port, associated with a fishing village and a lighthouse. This port should make it possible to launch a global fishing activity and guarantee a supply of various maritime
+        products for the whole city.  
+        <br /><br />
+        The idea suits you, especially since it will also provide an opportunity for additional work for the children of tomorrow and a place of tourism for future visitors.
     </blockquote>
 
     <h3>Objectives</h3>
@@ -892,7 +977,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
                 <li>128 shroomlight</li>
             </ul>
         </li>
-        <li>Quest : Enchant a fishing rod with all the maximum enchantments</li>
+        <li><strong>Quest:</strong> Enchant a fishing rod with all the maximum enchantments</li>
     </ul>
 </details>
 
@@ -902,8 +987,12 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     <br />
     <blockquote>
         Time passes in your city, life begins to prosper. An impressive wave of births is coming, and some residents are aging. Other settlers continue to arrive from time to time, and some of them stay, others rest in the asylum. A small
-        portion of them fail to resist their old instincts, making them commit minor crimes. Moreover, you’re thinking again about what Ronnie told you. If he’s right, that means that ancient builders will come, some day, with the same
-        intention as 1000 years ago. That means they certainly will want to take control over the city. You tell the mayor about this, because you don’t want him to think you are like them. It is your duty to provide all the services
+        portion of them fail to resist their old instincts, making them commit minor crimes.  
+        <br /><br />
+        Moreover, you’re thinking again about what Ronnie told you. If he’s right, that means that ancient builders will come, some day, with the same
+        intention as 1000 years ago. That means they certainly will want to take control over the city. You tell the mayor about this, because you don’t want him to think you are like them.  
+        <br /><br />
+        It is your duty to provide all the services
         necessary to assume these new events. First, you think about education. There are different jobs available in your city. However, the village needs to have a place that teaches the basics of life to the youngest, before they make a
         choice. Then, we must allow the living to mourn their losses and the dead to rest in peace. Finally, it becomes important to create a justice system that will judge, assist or punish those who endanger life in society.
     </blockquote>
@@ -930,7 +1019,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
                 <li>6 stacks of logs of any type of wood, including nether ones.</li>
             </ul>
         </li>
-        <li>Quest : Create a building or extend one to expose all kind of colored leather armors</li>
+        <li><strong>Quest:</strong> Create a building or extend one to expose all kind of colored leather armors</li>
     </ul>
 </details>
 
@@ -939,7 +1028,9 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
 
     <br />
     <blockquote>
-        It's been a long time since you've been on an adventure. You realize that you would like to have at your disposal different items which could be useful to you in your different constructions. During your exploration adventure, you
+        It's been a long time since you've been on an adventure. You realize that you would like to have at your disposal different items which could be useful to you in your different constructions. 
+        <br /><br />
+        During your exploration adventure, you
         noted the coordinates of an underwater monument. You feel ready to conquer this monument now. On the other hand, you would also like to have at your disposal a simple way to recover other items such as gunpowder, bones. Finally, you
         would like to have a creeper banner, to show them that they are not welcome. So you will need a way to easily recover monster heads.
     </blockquote>
@@ -963,7 +1054,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
                 <li>6 stack of gunpowder, bones</li>
             </ul>
         </li>
-        <li>Quest : Enchant one of the tridents and make sure you successfully obtain 1 Zombie, skeleton and creeper head.</li>
+        <li><strong>Quest:</strong> Enchant one of the tridents and make sure you successfully obtain 1 Zombie, skeleton and creeper head.</li>
     </ul>
 </details>
 
@@ -972,10 +1063,18 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
 
     <br />
     <blockquote>
-        It is time to offer the inhabitants places to relax and have fun. You do a survey, and it turns out that they are fairly open-minded and that they trust you to install new constructions close to the city in order to entertain them.
-        However, some ideas are mentioned by a lot. A zoo, where animals could live in freedom and security but also be seen by tourists. You will certainly have to travel to find the different species to integrate. A hostile museum, in
-        order to show the population, the aspect of the creatures which they must fear. Each species of monster should have a description for visitors. A museum, containing various treasures obtained during your adventure, in order to allow
-        the different inhabitants to visually realize what created the new civilization in which they now live in peace. You know that you can add other constructions to these ideas, the mayor and the inhabitants will certainly be very
+        It is time to offer the inhabitants places to relax and have fun. You do a survey, and it turns out that they are fairly open-minded and that they trust you to install new constructions close to the city in order to entertain them. 
+        <br /><br />
+        
+        However, some ideas are mentioned by a lot. A zoo, where animals could live in freedom and security but also be seen by tourists. You will certainly have to travel to find the different species to integrate.  
+        <br /><br />
+        A hostile museum, in
+        order to show the population, the aspect of the creatures which they must fear. Each species of monster should have a description for visitors.  
+        <br /><br />
+        A museum, containing various treasures obtained during your adventure, in order to allow
+        the different inhabitants to visually realize what created the new civilization in which they now live in peace.  
+        <br /><br />
+        You know that you can add other constructions to these ideas, the mayor and the inhabitants will certainly be very
         happy to go there to amuse themselves.
     </blockquote>
 
@@ -998,7 +1097,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
                 <li>46 diamond blocks / 480 iron blocks / 220 emeralds blocks / 170 gold blocks / 15 stacks of redstone block / 11 netherite blocks / 100 lapis lazuli blocks / 550 coal blocks</li>
             </ul>
         </li>
-        <li>Quest : Bring two Striders to your city, and place them in a building to protect them.</li>
+        <li><strong>Quest:</strong> Bring two Striders to your city, and place them in a building to protect them.</li>
     </ul>
 </details>
 
@@ -1009,8 +1108,12 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     <blockquote>
         Now that the population is growing and the exploits of battles from the past are making today's songs, you are lucky to have a number of new recruits in the military part of the city. You will have to enlarge the system a little to
         guarantee the maximum security of your population. In fact, after thinking about it, the population of your village has been able to grow so rapidly, it is possible that enemies have had such a significant expansion, which means
-        that you must absolutely anticipate. On the other hand, the previously built court is unfortunately starting to work too well, and has just ordered a first prison sentence for a resident who tried to steal the museum's treasures.
-        The problem is that at the moment there is no prison in the city. Finally, perhaps it’s an excess of paranoia, but a book that you have read and which was brought back by one of the elders' sacrifices, indicates that there is a
+        that you must absolutely anticipate.  
+        <br /><br />
+        On the other hand, the previously built court is unfortunately starting to work too well, and has just ordered a first prison sentence for a resident who tried to steal the museum's treasures.
+        The problem is that at the moment there is no prison in the city.  
+        <br /><br />
+        Finally, perhaps it’s an excess of paranoia, but a book that you have read and which was brought back by one of the elders' sacrifices, indicates that there is a
         possibility that one day, the invasion having occurred 1000 years ago will happen again. You'd rather start anticipating, and start planning to build a bunker to save your people if it ever happens.
     </blockquote>
 
@@ -1039,7 +1142,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
                 <li>48 diamond blocks / 500 iron blocks / 240 emeralds blocks / 190 gold blocks / 16 stacks of redstone block / 12 netherite blocks / 110 lapis lazuli blocks / 600 coal blocks</li>
             </ul>
         </li>
-        <li>Quest : Place some named creatures in some cells in the prison</li>
+        <li><strong>Quest:</strong> Place some named creatures in some cells in the prison</li>
     </ul>
 </details>
 
@@ -1049,8 +1152,12 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     <br />
     <blockquote>
         It’s a happy population living peacefully in your village. You tell yourself that the world is big, and that sometimes, a little change of landscape can be beneficial. You decide to offer the mayor to build a vacation spot. The
-        mayor begins to laugh, at first. "Why would we want to leave the city and then come back?". Indeed, it is a new concept for the population. You explain to him that the interest is to be able to benefit from nature, to see or be
-        entertained differently, during one time. You also explain to him that it is an effective way for the inhabitants to be a little happier and to rest from their work from time to time, which ends up convincing him. He then gives you
+        mayor begins to laugh, at first. "Why would we want to leave the city and then come back?".  
+        <br /><br />
+        Indeed, it is a new concept for the population. You explain to him that the interest is to be able to benefit from nature, to see or be
+        entertained differently, during one time. You also explain to him that it is an effective way for the inhabitants to be a little happier and to rest from their work from time to time, which ends up convincing him.  
+        <br /><br />
+        He then gives you
         carte blanche to build this vacation spot, but gives you a constraint, that of having an efficient means of transport to get there. That means one more station as the inhabitants won’t accept to go through hell.
     </blockquote>
 
@@ -1085,7 +1192,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
                 <li>50 diamond blocks / 520 iron blocks / 260 emeralds blocks / 200 gold blocks / 17 stacks of redstone block / 13 netherite blocks / 120 lapis lazuli blocks / 620 coal blocks</li>
             </ul>
         </li>
-        <li>Quest : Back to your city, add a pixel art somewhere.</li>
+        <li><strong>Quest:</strong> Back to your city, add a pixel art somewhere.</li>
     </ul>
 </details>
 
@@ -1094,8 +1201,12 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
 
     <br />
     <blockquote>
-        Your population needs to exercise. You have provided them with a way to learn, to relax, to go on vacation, to heal. But for the moment, some old pleasures are still not possible. The sport. You start by getting more information by
-        reading different books from the library. Then take a tour of the inhabitants to ask them if certain sports in particular interest them. They show you several ideas. First, horse racing, for bets. Some are more of a brawler, and
+        Your population needs to exercise. You have provided them with a way to learn, to relax, to go on vacation, to heal. But for the moment, some old pleasures are still not possible. The sport.  
+        <br /><br />
+        You start by getting more information by
+        reading different books from the library. Then take a tour of the inhabitants to ask them if certain sports in particular interest them. They show you several ideas.  
+        <br /><br />
+        First, horse racing, for bets. Some are more of a brawler, and
         would like the opportunity to train and compete in combat with others. Thrills are also a response that comes up from time to time, including using elytras, and some are more of a type who likes precision and would like an archery
         or crossbow area.
     </blockquote>
@@ -1123,7 +1234,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
                 <li>52 diamond blocks / 550 iron blocks / 280 emeralds blocks / 220 gold blocks / 18 stacks of redstone block / 14 netherite blocks / 130 lapis lazuli blocks / 630 coal blocks</li>
             </ul>
         </li>
-        <li>Quest : Make as much armor stands as needed, and fulfill the different buildings you’ve done to simulate the public.</li>
+        <li><strong>Quest:</strong> Make as much armor stands as needed, and fulfill the different buildings you’ve done to simulate the public.</li>
     </ul>
 </details>
 
@@ -1133,7 +1244,9 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     <br />
     <blockquote>
         After all these adventures, you deserve a little bit of comfort. You decide to spend some time building for yourself. As a builder, you now have a great architectural experience, and you begin to work on the design of plans for a
-        mansion, which will become your main home. You want a fenced area, perhaps brick, with metal barriers. You need greenery, like custom gorgeous trees, some fontains and a swimming pool. Thinking about the plans of your mansion, you
+        mansion, which will become your main home. You want a fenced area, perhaps brick, with metal barriers. You need greenery, like custom gorgeous trees, some fontains and a swimming pool.  
+        <br /><br />
+        Thinking about the plans of your mansion, you
         rethink the sewage disposal of the city. For the moment, it is manual for each inhabitant. You ask the mayor if he would be interested in a new automatic evacuation system, the sewers. The mayor seems to like the idea and asks you
         to build this system.
     </blockquote>
@@ -1170,7 +1283,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
                 <li>54 diamond blocks / 570 iron blocks / 300 emeralds blocks / 240 gold blocks / 19 stacks of redstone block / 15 netherite blocks / 150 lapis lazuli blocks / 640 coal blocks</li>
             </ul>
         </li>
-        <li>Quest : Build a sewage system, linked to most of the houses and buildings in the town. Build also an access to go down.</li>
+        <li><strong>Quest:</strong> Build a sewage system, linked to most of the houses and buildings in the town. Build also an access to go down.</li>
     </ul>
 </details>
 
@@ -1179,10 +1292,16 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
 
     <br />
     <blockquote>
-        Inhabitants tell you that they would like more memorials. They tell you it's a way for them to feel attached to the city, as well as a way to be proud when visitors will come to the city. Thus, they mention the story of Reuben, a
+        Inhabitants tell you that they would like more memorials. They tell you it's a way for them to feel attached to the city, as well as a way to be proud when visitors will come to the city.  
+        <br /><br />
+        Thus, they mention the story of Reuben, a
         pig who would have helped prevent the destruction of the world, a few thousand years ago. He was the companion of a talented builder, but sacrificed himself for him. In order to pay homage to Reuben, the inhabitants ask you to build
-        a monument bearing his effigy. Then they tell you that your victory over the dragon in the other dimension is a source of general pride, and come up with the idea of ​​a dragon statue, to represent this moment that helped you
-        prepare for war. The mayor asks you to create more green spaces in the city. Certainly inspired by what you have done for your mansion, he asks you to create at least one forest park with big custom trees While you’re planning these
+        a monument bearing his effigy.  
+        <br /><br />
+        Then they tell you that your victory over the dragon in the other dimension is a source of general pride, and come up with the idea of ​​a dragon statue, to represent this moment that helped you
+        prepare for war. The mayor asks you to create more green spaces in the city. Certainly inspired by what you have done for your mansion, he asks you to create at least one forest park with big custom trees. 
+        <br /><br />
+         While you’re planning these
         builds, 5 newcomers from the ancient civilisation arrive. They are still sacrifices that the ancient builders made.
     </blockquote>
 
@@ -1199,7 +1318,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
                 <li>56 diamond blocks / 590 iron blocks / 310 emeralds blocks / 250 gold blocks / 20 stacks of redstone block / 16 netherite blocks / 160 lapis lazuli blocks / 650 coal blocks</li>
             </ul>
         </li>
-        <li>Quest : Build you, fighting the Dragon, as a statue.</li>
+        <li><strong>Quest:</strong> Build you, fighting the Dragon, as a statue.</li>
     </ul>
 </details>
 
@@ -1209,8 +1328,12 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     <br />
     <blockquote>
         It’s been over ten years since the battle for the outpost path took place. Your population is growing, and technology is also evolving. The scientific and industrial community has developed different technologies, and asks you to
-        build a new district for the city. Some of these constructions will allow the city to be able to continue the expansion and production, at an industrial size. A new community is developing, based on these new inventions. This is the
-        community of explorers. They usually go on air balloons or zeppelins trips. It is normal to have an air balloon attached to your home these days. Meanwhile, magician Liv Jones has managed to develop a strange technology capable of
+        build a new district for the city. Some of these constructions will allow the city to be able to continue the expansion and production, at an industrial size.  
+        <br /><br />
+        A new community is developing, based on these new inventions. This is the
+        community of explorers. They usually go on air balloons or zeppelins trips. It is normal to have an air balloon attached to your home these days.  
+        <br /><br />
+        Meanwhile, magician Liv Jones has managed to develop a strange technology capable of
         floating pieces of land. She asks you to create her new house on a small floating island that she created for the occasion.
     </blockquote>
 
@@ -1229,7 +1352,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
                 <li>60 diamond blocks / 600 iron blocks / 320 emeralds blocks / 250 gold blocks / 20 stacks of redstone block / 16 netherite blocks / 160 lapis lazuli blocks / 650 coal blocks</li>
             </ul>
         </li>
-        <li>Quest: Add a building in the industrial district dedicated to a firework show.</li>
+        <li><strong>Quest:</strong> Add a building in the industrial district dedicated to a firework show.</li>
     </ul>
 </details>
 
@@ -1238,14 +1361,28 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
 
     <br />
     <blockquote>
-        After all these years, you have managed to build a city that offers maximum services to the inhabitants. You have successfully revived an economy, created a living environment that allows everyone to flourish and feel secure. But
+        After all these years, you have managed to build a city that offers maximum services to the inhabitants. You have successfully revived an economy, created a living environment that allows everyone to flourish and feel secure. 
+        <br /><br />
+        But
         one day, you see some different lights coming from the fortune camp. This time, it’s the ancient builders. They are there. Their cryopreservation cells were better than the other because they just seem to have taken a nap. When they
-        see the city, they start whispering. You go to meet them, with some of your army. When you arrive, you hear the last whisper : “We created the apocalypse for nothing, the world is not destroyed !” “Shhhh, someone is coming !” Angry,
+        see the city, they start whispering. You go to meet them, with some of your army. When you arrive, you hear the last whisper : 
+        <br /><br />
+        <em> “We created the apocalypse for nothing, the world is not destroyed !” <br/> “Shhhh, someone is coming !” </em> 
+        <br /><br />
+        Angry,
         you ask them to explain. One recognizes you, and tries to coax you, but you only want to know. Eventually, one tells you that they created the battle 1000 years ago in order to reset the world and be revered as gods when they return
         in order to easily obtain all possible resources. They threaten you, and tell you that they still have control over the monsters, and that they will send them to this city to clean up. Then they disappear using an invisibility
-        potion You can’t believe what just happened. You run to tell Sam, that is still the mayor. He decides to ring the city bell, because he wants everybody to be a part of this discussion. After two hours, here comes the result. They
-        want a way to fight, and to win the battle. Nobody wants to hide, and be a slave of the malicious builders. In order to show the world you’re ready, the municipal council orders your latest construction. A castle. The castle is a
-        way to wage a full battle against monsters. The different towers of the castle allow you to have all angles facing the dragons or withers, to protect yourself and not to let hostile creatures enter the walls. You were a child at the
+        potion.  
+        <br /><br />
+        You can’t believe what just happened. You run to tell Sam, that is still the mayor. He decides to ring the city bell, because he wants everybody to be a part of this discussion. After two hours, here comes the result. They
+        want a way to fight, and to win the battle. Nobody wants to hide, and be a slave of the malicious builders. In order to show the world you’re ready, the municipal council orders your latest construction.  
+        <br /><br />
+        <em>A castle.</em> 
+        <br /><br />
+         The castle is a
+        way to wage a full battle against monsters. The different towers of the castle allow you to have all angles facing the dragons or withers, to protect yourself and not to let hostile creatures enter the walls.  
+        <br /><br />
+        You were a child at the
         time. But the battle of 1000 years ago will never leave your memories. We absolutely must win this fight. So get ready.
     </blockquote>
 
@@ -1264,7 +1401,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
                         <li>Gunpowder / Bones / String / Slime balls / Honey bottles / ender eyes / blaze rods</li>
                         <li>Pumpkins / melons / potatoes / wheat / beetroots / sugarcane</li>
                         <li>The maximum enchantment on your armor, tools, weapons, shiel</li>
-                        <li>Quest: Get all the achievements of the game</li>
+                        <li><strong>Quest:</strong> Get all the achievements of the game</li>
                     </ul>
                 </li>
             </ul>
