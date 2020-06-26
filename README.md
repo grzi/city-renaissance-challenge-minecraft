@@ -196,7 +196,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
         <li>
             Treasure chests must contains:
             <ul>
-                <li>24 strings / 24 bones / 32 rotten flesh / 24 gunpowder / 1 ender eye</li>
+                <li>24 strings / 24 bones / 32 rotten flesh / 24 gunpowder / 1 ender pearl</li>
                 <li>16 cooked mutton / 16 cooked beef / 24 ink sacs</li>
                 <li>64 logs of two types of wood / 128 coals / 6 stacks of cobblestone / 2 stack of glass / 1 stack of brick / 1 stack of concrete of any color / 32 irons ingots</li>
                 <li>4 stack of sugarcane / 1 stack of sugar / 32 apples</li>
@@ -239,7 +239,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
         <li>
             Treasure chests must contains:
             <ul>
-                <li>32 strings / 32 bones / 32 gunpowder / 4 ender eyes</li>
+                <li>32 strings / 32 bones / 32 gunpowder / 4 ender pearls</li>
                 <li>2 stacks of logs from two types of wood / 12 stacks of cobblestone / 2 stack of brick / 2 stack of concrete of any color / 1 diamond</li>
                 <li>128 irons ingots / 32 gold ingot, 2 redstone stacks</li>
                 <li>At least 6 bees, 16 honey bottles / 6 honey blocks / 16 honeycombs / 16 beehives / 4 honeycomb blocks</li>
@@ -285,7 +285,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
         <li>
             Treasure chests must contains:
             <ul>
-                <li>6 ender eyes</li>
+                <li>6 ender pearls</li>
                 <li>3 stacks of logs from two types of wood / 3 stack of brick /</li>
                 <li>4 stacks of irons ingots / 64 gold ingot, 3 redstone stacks / 12 diamonds</li>
                 <li>32 hay bales / 32 cooked chickens / 32 feathers / 64 eggs</li>
@@ -327,7 +327,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
         <li>
             Treasure chests must contains:
             <ul>
-                <li>8 ender eyes / 64 gunpowders</li>
+                <li>8 ender pearls / 64 gunpowders</li>
                 <li>4 stacks of logs from two types of wood</li>
                 <li>32 iron blocks / 12 gold blocks, 4 redstone stacks / 16 diamonds</li>
                 <li>A full diamond tool and a sword, in your chest (In addition to those you have on yourself)</li>
@@ -1400,7 +1400,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
                 <li>
                     A full simple chest for each :
                     <ul>
-                        <li>Gunpowder / Bones / String / Slime balls / Honey bottles / ender eyes / blaze rods</li>
+                        <li>Gunpowder / Bones / String / Slime balls / Honey bottles / ender pearls / blaze rods</li>
                         <li>Pumpkins / melons / potatoes / wheat / beetroots / sugarcane</li>
                         <li>The maximum enchantment on your armor, tools, weapons, shiel</li>
                         <li><strong>Quest:</strong> Get all the achievements of the game</li>
