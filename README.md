@@ -161,7 +161,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
         </li>
 
         <li><strong>Quest:</strong> Fish until you get a tripwire hook and use it as a decoration</li>
-        <li><strong>You can use only stone tools. (You can cook iron, but can only craft shears and a bucket. NO SHIELD)</strong> </li>
+        <li><strong>You can use only stone tools. You can cook and use iron except for tools and weapons</strong> </li>
         <li><strong>You can’t replant trees</strong> </li>
     </ul>
 </details>
@@ -204,7 +204,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
         </li>
 
         <li><strong>Quest:</strong> Fish a name tag (If you find it elsewhere it’s ok, but won’t fit the story).</li>
-        <li><strong>You can use only stone tools. (You can cook iron, but can only craft shears and a bucket. NO SHIELD)</strong></li>
+        <li><strong>You can use only stone tools. You can cook and use iron except for tools and weapons</strong></li>
         <li><strong>You can’t replant trees</strong></li>
     </ul>
 </details>
@@ -270,6 +270,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
 
     <ul>
         <li>Name your first diamond with an anvil and store it in a safe place.</li>
+        <li>Make a diamond pickaxe</li>
         <li>A ranch at least 100 blocks away from the rest of the village, clotured (you decide the style of the fence). The ranch area should be at least 40 blocks by 25 blocks.</li>
         <li>
             It must contains :
@@ -286,13 +287,14 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
             Treasure chests must contains:
             <ul>
                 <li>6 ender pearls</li>
+                <li>4 obsidians</li>
                 <li>3 stacks of logs from two types of wood / 3 stack of brick /</li>
                 <li>4 stacks of irons ingots / 64 gold ingot, 3 redstone stacks / 12 diamonds</li>
                 <li>32 hay bales / 32 cooked chickens / 32 feathers / 64 eggs</li>
             </ul>
         </li>
         <li><strong>Quest:</strong> Bring back 2 turtles to the village</li>
-        <li><strong>Iron armor and tools only. If you find diamonds, you can mine them, but not use them.</strong></li>
+        <li><strong>Iron armor and tools only (except for the pickaxe that can be diamond).</strong></li>
         <li><strong>You can’t replant trees</strong></li>
     </ul>
 </details>
@@ -315,7 +317,6 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     <h3>Objectives</h3>
 
     <ul>
-        <li>Switch to diamond tools</li>
         <li>Create two luxury houses, with a minimum size of 15 x 11 (You choose the final shape of the house)</li>
         <li>Build multiple community buildings that will create the town center:</li>
         <li>A town hall, with a mayor's office, a voting area and a room to display a wall with the map of your complete city. Think big for this wall because it will need to fit all your village maps at the end</li>
@@ -336,8 +337,8 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
             </ul>
         </li>
         <li><strong>Quest:</strong> Kill a phantom and get a membrane</li>
-        <li><strong>No diamond armor</strong></li>
-        <li><strong>No enchantments (except on fishing rods if you fish one with enchantments)</strong></li>
+        <li><strong>Iron armor and tools only (except for the pickaxe that can be diamond).</strong></li>
+        <li><strong>Enchantments level 1 maximum</strong></li>
         <li><strong>You can’t replant trees</strong></li>
     </ul>
 </details>
@@ -378,8 +379,8 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
             </ul>
         </li>
         <li><strong>Quest:</strong> Get a nautilus shell</li>
-        <li><strong>No diamond armor</strong></li>
-        <li><strong>No enchantments (except on fishing rods if you fish one with enchantments)</strong></li>
+        <li><strong>Iron armor and tools only (except for the pickaxe that can be diamond).</strong></li>
+        <li><strong>Enchantments level 1 maximum</strong></li>
     </ul>
 </details>
 
@@ -422,7 +423,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
             </ul>
         </li>
         <li><strong>Quest:</strong> Find an donkey, tame and name him</li>
-        <li><strong>No diamond armor</strong></li>
+        <li><strong>Iron armor and tools only (except for the pickaxe that can be diamond).</strong></li>
         <li><strong>Enchantments level 1 maximum</strong></li>
     </ul>
 </details>
@@ -449,7 +450,7 @@ The challenge is divided into 30 chapters. Each one contains a part of the story
     <h3>Objectives</h3>
 
     <ul>
-        <li>You can switch your armor to diamond.</li>
+        <li>You can switch your armor and tools to diamond.</li>
         <li>Create a building or room in an existing building to make your nether nether.</li>
         <li>
             Explore the nether:
